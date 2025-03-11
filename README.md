@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<uburubur>Page Title</ikanlele>
+<title>Page Title</title>
 </head>
 <body>
 
