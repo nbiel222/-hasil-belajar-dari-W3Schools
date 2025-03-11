@@ -1,2 +1,14 @@
-# -hasil-belajar-dari-W3Schools
-TECH STACK &amp;  WEB ENVIRONMENT  PEMROGRAMAN WEB DASAR  PERTEMUAN 2
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>popo</h1>
+<p>shiroyoo.</p>
+
+</body>
+</html>
+
+
